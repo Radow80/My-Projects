@@ -10,11 +10,12 @@ Welcome to my project portfolio! This repo is a collection of the things I’ve 
 
  
 
-- **[Linear Regression](https://github.com/radow80/)**  
+- **[Linear Regression](https://github.com/radow80/My-Projects/Copy_of_Q3_Linear_Exam.ipynb)**
+--- Tackled a linear Regression task using Feature Engineering
   
 
 ### 🌐 Python Programming
-- - **[Simple Bank System](https://github.com/radow80/Banksystem.ipynb)**  
+- **[Simple Bank System](https://github.com/radow80/My-Projects/Banksystem.ipynb)**  
 --- Completed a Simple Bank System using several Classes and Functions 
 
 ## 🧰 Tech Stack
