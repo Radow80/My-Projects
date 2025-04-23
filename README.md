@@ -7,6 +7,19 @@ Welcome to my project portfolio! This repo is a collection of the things I’ve 
 ## 🚀 Projects
 
 ### 🧠 Machine Learning / AI
+- **[Image Search](https://github.com/radow80/My-Projects/Copy_of_Q1.ipynb)**
+--- Applied Image Search using Cosine Similiarity and UNet
+  
+
+
+- **[CrossEntropy (Multi-Class) Classification](https://github.com/radow80/My-Projects/Copy_of_Q2.ipynb)**
+--- Used EfficientNet to solve a Challenging Bone Fracture Classification problem
+  
+
+
+- **[Multi-class Segmentation](https://github.com/radow80/My-Projects/Copy_of_Q3.ipynb)**
+--- Tackled a linear Regression task using Feature Engineering
+  
 
  
 
@@ -19,7 +32,7 @@ Welcome to my project portfolio! This repo is a collection of the things I’ve 
 --- Completed a Simple Bank System using several Classes and Functions 
 
 ## 🧰 Tech Stack
-`Python`  `Numpy` `Pytorch` `Pandas` `Jupyter`
+`Python`  `Numpy` `Pytorch` `Pandas` `Jupyter/Colab`
 
 ---
 
