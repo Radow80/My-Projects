@@ -14,7 +14,7 @@ Welcome to my project portfolio! This repo is a collection of the things I’ve 
   
 
 ### 🌐 Python Programming
-- - **[Simple Bank System](https://github.com/radow80/Banksystem)**  
+- - **[Simple Bank System](https://github.com/radow80/Banksystem.ipynb)**  
 --- Completed a Simple Bank System using several Classes and Functions 
 
 ## 🧰 Tech Stack
