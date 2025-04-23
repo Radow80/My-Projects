@@ -7,30 +7,18 @@ Welcome to my project portfolio! This repo is a collection of the things I’ve 
 ## 🚀 Projects
 
 ### 🧠 Machine Learning / AI
-- **[Image Classifier](https://github.com/radow80/image-classifier)**  
-  A simple convolutional neural network (CNN) to classify animals using TensorFlow/Keras.
 
-- **[Text Sentiment Analyzer](https://github.com/radow80/sentiment-analyzer)**  
-  NLP model that classifies positive/negative sentiment in short texts.
+ 
 
-### 🌐 Web Development
-- **[Weather App](https://github.com/radow80/weather-app)**  
-  A React app that shows current weather using the OpenWeather API.
+- **[Linear Regression](https://github.com/radow80/)**  
+  
 
-- **[Personal Portfolio Site](https://github.com/radow80/portfolio)**  
-  My minimal personal website built with HTML/CSS and deployed with GitHub Pages.
-
-### 🛠️ Tools & Scripts
-- **[File Organizer](https://github.com/radow80/file-organizer)**  
-  Python script that automatically sorts files into folders by type.
-
-- **[Markdown Notes Generator](https://github.com/radow80/md-notes-generator)**  
-  Turn simple input files into clean Markdown notes.
-
----
+### 🌐 Python Programming
+- - **[Simple Bank System](https://github.com/radow80/Banksystem)**  
+--- Completed a Simple Bank System using several Classes and Functions 
 
 ## 🧰 Tech Stack
-`Python` `JavaScript` `React` `Node.js` `HTML/CSS` `Git/GitHub` `TensorFlow` `Pandas` `Jupyter`
+`Python`  `Numpy` `Pytorch` `Pandas` `Jupyter`
 
 ---
 
